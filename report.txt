@@ -1,3 +1,5 @@
 This is a report file.
 
 Added line from local repository.
+Adding line from remote.
+
